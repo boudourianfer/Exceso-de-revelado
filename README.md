@@ -1,1 +1,2 @@
 # Exceso-de-revelado
+En cambio, sí hay detalles en las sombras, el efecto es debido a exceso de revelado. En este caso, el negativo duro puede salvarse. Un papel suave en el positivado por contacto o un papel normal en la ampliación darán positivos en los que el contraste violento queda bastante suavizado. Además, el exceso de densidad puede reducirse muy bien tratando el negativo con el reductor de Farmer. También existe un tercer procedimiento para obtener un negativo menos contrastado mediante un contrato directo.
